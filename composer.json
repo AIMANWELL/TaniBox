@@ -1,0 +1,8 @@
+{
+    "name": "aiman/tanibox",
+    "description": "TaniBox Cloud Computing Project",
+    "type": "project",
+    "require": {
+        "aws/aws-sdk-php": "^3.388"
+    }
+}

@@ -1,0 +1,50 @@
+body{
+    background: linear-gradient(135deg,#198754,#4CAF50);
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-family:'Segoe UI',sans-serif;
+}
+
+.login-card{
+    width:430px;
+    border:none;
+    border-radius:20px;
+    overflow:hidden;
+    box-shadow:0 15px 35px rgba(0,0,0,.2);
+}
+
+.card-header{
+    background:#198754;
+    color:#fff;
+    text-align:center;
+    padding:30px;
+}
+
+.logo{
+    width:90px;
+    margin-bottom:10px;
+}
+
+.card-body{
+    padding:35px;
+}
+
+.form-control{
+    border-radius:10px;
+    height:45px;
+}
+
+.btn-success{
+    height:45px;
+    border-radius:10px;
+    font-weight:bold;
+}
+
+.footer{
+    text-align:center;
+    color:#777;
+    margin-top:15px;
+    font-size:13px;
+}
